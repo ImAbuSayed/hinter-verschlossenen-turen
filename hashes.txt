@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hinter verschlossenen Türen
+
+This log tracks the cryptographic history and versioning for the song **Hinter verschlossenen Türen** (hinter-verschlossenen-turen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T22:41:19.815615 | `v1` | `d5b89411aa1bb98158a650e4749ec632d75578108418db55762d3b0bb6961764` | `1660b1efde46cd2e5dd73b384995074aaf94446bfc1982fa7ba3c11d26413cd0` | `2026-06-30_hinter-verschlossenen-turen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
