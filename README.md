@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hinter-verschlossenen-turen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Hinter verschlossenen Türen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hinter-verschlossenen-turen/) |
+| **Get License** | [Get License For Hinter verschlossenen Türen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hinter-verschlossenen-turen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir sind allein im V.I.P., spür den Vibe, wie er fließt
+> Deine Augen lügen nicht, Baby, sag mir, was du siehst
+> Hinter verschlossenen Türen wird die Nacht zu unsrer Welt
+> Kein Limit, keine Zeit, nur der Rhythmus, der uns hält
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
