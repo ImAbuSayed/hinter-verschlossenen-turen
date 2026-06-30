@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hinter-verschlossenen-turen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Hinter verschlossenen Türen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hinter-verschlossenen-turen/) |
+| **Get License** | [Obtain a Music License for Hinter verschlossenen Türen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hinter-verschlossenen-turen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4689)
 
 ---
 
